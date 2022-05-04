@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Ellen's blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my page :) I plan to use this space to explore data science methods using open-source data.
