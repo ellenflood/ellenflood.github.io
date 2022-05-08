@@ -1,8 +1,8 @@
-title: Ellen's Page
-author: Ellen
+title: The Way I See It
+author: Ellen Flood
 email: ellenflood1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a page to showcase my exploration of various data science methods using open-source data.
+  I am using this space to explore data science techniques using open source data. Welcome :)
 
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
